@@ -1,4 +1,3 @@
-![logo](https://github.com/skanjie1/skanjie1/blob/main/My%20project-1.png)
 
 <h1 align="center">Hi 👋, I'm Sydney Nzunguli</h1>
 <h3 align="center">I am a Computer Science student at the University of Nairobi. I am passionate about software development and I'm ready to unleash my potential to the world! ;)</h3>
