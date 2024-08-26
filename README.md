@@ -3,8 +3,6 @@
 <h3 align="center">I am a Computer Science student at the University of Nairobi. I am passionate about software development and I'm ready to unleash my potential to the world! ;)</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 
-- 🔭 I’m currently an intern at **Envision Technologies Ltd**
-
 - 🌱 I’m currently learning **ML and AI to sharpen my software development skills; both in hardware and software.**
 
 - 📫 How to reach me **sydneykanjie@gmail.com**
